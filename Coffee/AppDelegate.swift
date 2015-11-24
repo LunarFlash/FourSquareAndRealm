@@ -4,7 +4,7 @@
 //
 //  Created by Terry Wang on 11/24/15.
 //  Copyright © 2015 Vento. All rights reserved.
-//
+//  http://www.appcoda.com/foursquare-realm-swift/
 
 import UIKit
 
